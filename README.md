@@ -1,5 +1,7 @@
 # Dance Home Page [![Template Project](https://img.shields.io/badge/Template-Project-blue)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
+This is portfolio home page for dance person.
+
 ## Preview
 
 ![demo](./Project-14.png)
@@ -25,3 +27,5 @@
 It took me 5.5 hours to complete this pro
 
 ## Live link of the project
+
+https://dance-homepage.netlify.app/

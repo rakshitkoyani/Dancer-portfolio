@@ -116,9 +116,9 @@ nav ul li:first-child {
   background-color: #333333;
   border: none;
   margin-top: 20px;
-  padding: 15px 50px;
+  padding: 15px 55px;
   position: relative;
-  left: 65%;
+  left: 61%;
   font-size: 20px;
   cursor: pointer;
 }
@@ -159,7 +159,6 @@ nav ul li:first-child {
   width: 15px;
   height: 15px;
   background-color: #1f1f1f;
-  border-radius: 50%;
 }
 
 .dotline {
