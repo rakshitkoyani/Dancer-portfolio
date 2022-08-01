@@ -4,7 +4,7 @@ This is portfolio home page for dance person.
 
 ## Preview
 
-![demo](./Project-14.png)
+![demo](Project-14.png)
 
 ## Author
 
@@ -18,13 +18,13 @@ This is portfolio home page for dance person.
 
 ## What I have learnt in this project
 
-1. This project help me to understand css positions in a better way.Specially scrolling with fixed image on left part.
+1. This project help me to understand css positions in a better way. Specially scrolling with fixed image on left part.
 
 2. learn lot about font property for fancy design.
 
 ## Honest Time to finish the project
 
-It took me 5.5 hours to complete this pro
+It took me 5.5 hours to complete this project.
 
 ## Live link of the project
 
