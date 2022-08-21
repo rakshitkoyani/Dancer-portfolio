@@ -4,8 +4,10 @@ This is portfolio home page for dance person.
 
 ## Preview
 
+1. Desktop demo
 ![demo](Project-14.png)
 
+1. Mobile demo
 ![demo](mobile.png)
 
 ## Author

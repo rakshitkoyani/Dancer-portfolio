@@ -47,6 +47,7 @@ nav ul li {
   display: none;
   position: absolute;
   right: -40%;
+  font-size: 3rem;
 }
 
 nav ul li:first-child {
@@ -239,5 +240,9 @@ nav ul li:first-child {
 
   .menu-icon {
     display: inline;
+  }
+
+  .logo {
+    width: 200px;
   }
 }
