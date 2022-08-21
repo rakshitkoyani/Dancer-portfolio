@@ -46,7 +46,7 @@ nav ul li {
 .menu-icon {
   display: none;
   position: absolute;
-  right: -40%;
+  right: -100%;
   font-size: 3rem;
 }
 
