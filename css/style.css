@@ -43,6 +43,12 @@ nav ul li {
   cursor: pointer;
 }
 
+.menu-icon {
+  display: none;
+  position: absolute;
+  right: -40%;
+}
+
 nav ul li:first-child {
   color: #1f1f1f;
 }
@@ -188,8 +194,6 @@ nav ul li:first-child {
   margin-top: 20px;
 }
 
-
-
 .arrow-line {
   background-color: #1f1f1f;
   width: 2px;
@@ -204,4 +208,36 @@ nav ul li:first-child {
   position: absolute;
   top: 77%;
   right: 29px;
+}
+
+@media screen and (max-width:480px) {
+  .image-left {
+    /* display: none; */
+    height: 100%;
+    opacity: .2;
+  }
+
+  .main-container {
+    margin-left: 20px;
+    padding-top: 50px;
+  }
+
+  .hidden,
+  .navbar {
+    display: none;
+  }
+
+  .upper,
+  .lower {
+    font-size: 8rem;
+  }
+
+  .main-container .btn {
+    position: relative;
+    left: 350px;
+  }
+
+  .menu-icon {
+    display: inline;
+  }
 }

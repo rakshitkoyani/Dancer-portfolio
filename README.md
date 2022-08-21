@@ -6,9 +6,11 @@ This is portfolio home page for dance person.
 
 ![demo](Project-14.png)
 
+![demo](mobile.png)
+
 ## Author
 
-- [Rakshit Koyani](https://raw.githubusercontent.com/rakshitkoyani/Dancer-portfolio/main/Project-14.png)
+- [Rakshit Koyani](https://www.github.com/rakshitkoyani)
 
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-koyani-507040132/)
 
